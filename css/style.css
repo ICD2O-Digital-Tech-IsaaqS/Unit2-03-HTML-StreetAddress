@@ -13,31 +13,31 @@ h1 {
     font: 16pt Verdana, Geneva, Arial, Helvetica, sans-serif;
     font-weight: bold;
     line-height: 20pt;
-    color: slateblue;
+    color: rgb(18, 231, 10);
 }
 
 h2 {
     font: 14pt Verdana, Geneva, Arial, Helvetica, sans-serif;
     font-weight: bold;
     line-height: 18pt;
-    color: mediumseagreen;
+    color: rgb(4, 61, 30);
 }
 
 h3 {
     font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif;
     font-weight: bold;
     line-height: 16pt;
-    color: violet;
+    color: rgb(4, 99, 116);
 }
 
 p.subheader {
     font-weight: bold;
-    color: #593d87;
+    color: #e2510e;
 }
 
 div {
     font-weight: bold;
-    color: #ee6d9e;
+    color: #15e20e;
     margin: 5px;
 }
 
@@ -52,12 +52,12 @@ a {
 
 a:link,
 a:visited {
-    color: #8094d6;
+    color: #ee930a;
 }
 
 a:hover,
 a:active {
-    color: #f93;
+    color: rgb(233, 182, 12);
 }
 
 div.footer {
